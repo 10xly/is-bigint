@@ -1,1 +1,3 @@
-export = function isBigIntPrimitive(value: unknown): boolean
+declare function isBigIntPrimitive(value: unknown): boolean
+
+export = isBigIntPrimitive
