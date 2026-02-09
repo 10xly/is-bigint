@@ -1,0 +1,1 @@
+export = function isBigIntPrimitive(value: unknown): boolean
